@@ -76,3 +76,6 @@ A parent passes data through props. To send an action back, the parent can pass 
 ## 🌐 Deployment
 
 You can deploy this Vite project to Vercel, Netlify, or Cloudflare Pages. Use `npm run build` as the build command and `dist` as the output directory.
+
+## Project Overview
+Dev Stack Builder helps developers explore web technologies and organize a technology stack.
