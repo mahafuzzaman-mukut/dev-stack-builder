@@ -87,3 +87,6 @@ React, Vite, JavaScript, CSS, and JSON.
 - Browse technology cards
 - Organize a personal stack
 - Responsive user interface
+
+## Data Source
+Technology information is stored in a JSON data file.
