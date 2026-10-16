@@ -82,3 +82,8 @@ Dev Stack Builder helps developers explore web technologies and organize a techn
 
 ## Technologies Used
 React, Vite, JavaScript, CSS, and JSON.
+
+## Features
+- Browse technology cards
+- Organize a personal stack
+- Responsive user interface
