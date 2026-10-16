@@ -93,3 +93,6 @@ Technology information is stored in a JSON data file.
 
 ## User Interface
 The interface is designed to support desktop and mobile screen sizes.
+
+## Project Status
+The project is maintained in Git and hosted in a GitHub repository.
