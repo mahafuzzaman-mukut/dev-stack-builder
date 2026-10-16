@@ -79,3 +79,6 @@ You can deploy this Vite project to Vercel, Netlify, or Cloudflare Pages. Use `n
 
 ## Project Overview
 Dev Stack Builder helps developers explore web technologies and organize a technology stack.
+
+## Technologies Used
+React, Vite, JavaScript, CSS, and JSON.
