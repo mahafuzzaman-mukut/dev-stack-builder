@@ -90,3 +90,6 @@ React, Vite, JavaScript, CSS, and JSON.
 
 ## Data Source
 Technology information is stored in a JSON data file.
+
+## User Interface
+The interface is designed to support desktop and mobile screen sizes.
